@@ -3,18 +3,13 @@ import React from "react";
 export default function About() {
   return (
     <section id="about">
-      <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
-        <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
+      <div className="container px-20 py-10 mx-auto text-center lg:px-40">
+        <div className="flex flex-col w-full mb-20 px-20">
+          <h1 className="sm:text-7xl text-3xl font-medium title-font mb-4 text-white">
             Hi, I'm Anna.
           </h1>
-          <span className="title-font font-medium text-white">
-           Full Stack Developer | Front End Engineer | Creative Technologist
-          </span><br />
           <p className="mb-8 leading-relaxed">
-In 7+ years in marketing for tech startups, I had many roles from content creation and design to CRM and sales management. When I began to take on website development, I found myself consistently drawn towards building products and experiences where I could utilize my skills combining visual design, creative problem solving, attention to detail, adaptability, and storytelling in order to bring ideas to life.<br />
-<br />
-I decided to dedicate the past two years to developing my programming skills, solidifying my Computer Science fundamentals before diving into a full-time coding bootcamp where I was able to gain a well-rounded skillset in languages like Javascript, React, Ruby and Rails. Now, I continue to learn and apply those skills every day whether it's open source, freelancing or personal projects.
+          Throughout my 8 years as a marketer at fast-paced tech startups, I continuously found myself drawn to finding ways to build, experiment and iterate on technical solutions for complex problems. The more I learned, the more I understand how to develop interactive applications end-to-end. So, I decided to spend a year completing a full-stack engineering certification program. One year later, I was officially addicted to applying my new programming skills to projects every day. 
           </p>
           <div className="flex justify-center">
             <a

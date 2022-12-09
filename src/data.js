@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Bites Restaurant Management App",
+    subtitle: "Python, Django",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "An inventory and sales application built using Django where Users can log in, create items for the restaurant's menu, add ingredients to the inventory, record purchases and view reports of the current inventory and purchases made.",
+    image: "./bites.gif",
+    link: "https://github.com/AnnaClausen/bites_project",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "SoundWave",
+    subtitle: "React, Spotify API",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A React web application that uses components, state and requests along with the Spotify API to build a website that allows users to authenticate with their Spotify account, search their Spotify library, create a custom playlist, then save it to their Spotify account.",
+    image: "./soundwave.gif",
+    link: "https://github.com/AnnaClausen/SoundWave",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Prolog Error Tracking Tool",
+    subtitle: "React, Typescript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Built features and fixed bugs in the ProLog codebase during the React Job Simulator program. Used Trunk-Based Development with Pull Requests as Git workflow to fix bugs in existing code and implemented new features based on Kanban tasks and Figma designs. Discussed and improved code after code reviews by senior developer.",
+    image: "./prolog.gif",
+    link: "https://github.com/profydev/prolog-app-AnnaClausen",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Moments Social Media Network",
+    subtitle: "Python, Django",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "A social media website built using the Django Framework, implementing one-to-one and many-to-many relationships between Django models. Users can sign up, login and follow other users to see their posts or unfollow them to stop seeing their posts.",
+    image: "./moments.gif",
+    link: "https://github.com/AnnaClausen/social_book",
   },
 ];
 
@@ -52,9 +52,10 @@ export const testimonials = [
 
 export const skills = [
   "JavaScript",
+  "Python",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Node.js",
+  "PostgreSQL",
+  "Ruby",
+  "Rails",
 ];
