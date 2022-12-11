@@ -4,12 +4,12 @@ export default function About() {
   return (
     <section id="about">
       <div className="container px-20 py-10 mx-auto text-center lg:px-40">
-        <div className="flex flex-col w-full mb-20 px-20">
+        <div className="flex flex-col w-full mt-10 mb-10 px-20">
           <h1 className="sm:text-7xl text-3xl font-medium title-font mb-4 text-white">
             Hi, I'm Anna.
           </h1>
           <p className="mb-8 leading-relaxed">
-          Throughout my 8 years as a marketer at fast-paced tech startups, I continuously found myself drawn to finding ways to build, experiment and iterate on technical solutions for complex problems. The more I learned, the more I understand how to develop interactive applications end-to-end. So, I decided to spend a year completing a full-stack engineering certification program. One year later, I was officially addicted to applying my new programming skills to projects every day. 
+          Throughout my 8 years as a marketer at fast-paced tech startups, I continuously found myself drawn to finding ways to build, experiment and iterate on technical solutions for complex problems. The more I learned, the more I wanted to understand how to develop interactive applications end-to-end. So, I decided to spend a year completing a full-stack engineering certification program. One year later, I was officially addicted to applying my new programming skills to projects every day. 
           </p>
           <div className="flex justify-center">
             <a
