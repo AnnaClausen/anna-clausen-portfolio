@@ -58,5 +58,5 @@ export const skills = [
   "Express.js",
   "PostgreSQL",
   "HTML and CSS",
-  "Figma",
+  "Github",
 ];
