@@ -19,7 +19,7 @@ export const projects = [
     title: "Prolog Error Tracking Tool",
     subtitle: "React, Typescript",
     description:
-      "Built features and fixed bugs in the ProLog codebase during the React Job Simulator program. Used Trunk-Based Development with Pull Requests as Git workflow to fix bugs in existing code and implemented new features based on Kanban tasks and Figma designs. Discussed and improved code after code reviews by senior developer.",
+      "Built features and fixed bugs in the ProLog codebase during the React Job Simulator program. Used Trunk-Based Development with pull requests as Git workflow to fix bugs in existing code and implemented new features based on Kanban tasks and Figma designs. Discussed and improved code after code reviews by senior developer.",
     image: "./prolog.gif",
     link: "https://github.com/profydev/prolog-app-AnnaClausen",
   },
@@ -55,7 +55,8 @@ export const skills = [
   "Python",
   "React",
   "Node.js",
+  "Express.js",
   "PostgreSQL",
-  "Ruby",
-  "Rails",
+  "HTML and CSS",
+  "Figma",
 ];
