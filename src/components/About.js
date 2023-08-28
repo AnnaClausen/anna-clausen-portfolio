@@ -9,7 +9,7 @@ export default function About() {
             Hi, I'm Anna.
           </h1>
           <p className="mb-8 leading-relaxed">
-          Throughout my 8 years as a marketer at fast-paced tech startups, I continuously found myself drawn to finding ways to build, experiment and iterate on technical solutions for complex problems. The more I learned, the more I wanted to understand how to develop interactive applications end-to-end. So, I decided to spend a year completing a full-stack engineering certification program. One year later, I was officially addicted to applying my new programming skills to projects every day. 
+          Front-end software engineer with a passion for developing creative solutions to empower users and solve difficult problems. Through my journey from a marketer to a certified front-end engineer, I have become deeply attuned to both the creative and technical aspects of application development and I am confident in my ability to advocate for best practices in system design, user experience, and engineering excellence.
           </p>
           <div className="flex justify-center">
             <a
